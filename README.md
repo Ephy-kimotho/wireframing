@@ -27,7 +27,7 @@ It also shows navigation, how users can move from one page to another such as th
 
 Most popular wireframing tools include:
 
-- **Figma:**A web-based design platform known for its collaborative features, ease of use, and robust prototyping capabilities
+- **Figma:** A web-based design platform known for its collaborative features, ease of use, and robust prototyping capabilities
 - **Adobe:** Part of the Adobe Creative Suite, XD provides a comprehensive solution for UI design, prototyping, and animation. AdobeXD
 - **InVision:** InVision: A cloud-based platform for creating interactive prototypes with animations and user flows, facilitating user testing and feedback. Invision
 
